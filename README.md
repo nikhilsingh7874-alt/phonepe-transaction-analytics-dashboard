@@ -9,6 +9,8 @@ To analyze transaction patterns, user engagement, service performance, and platf
   
 ## Dashboard Created
 <a href="https://github.com/nikhilsingh7874-alt/phonepe-transaction-analytics-dashboard/blob/main/PhonePe_Analysis.pdf">View Dashboard</a>
+## Dashboard Image
+
 ## 🎯 Business Problems Solved
 ✔ Understanding transaction growth patterns 
 
